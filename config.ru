@@ -10,5 +10,6 @@ run lambda { |env|
       'Cache-Control' => 'public, max-age=1' 
     },
     File.open('public/index.html', File::RDONLY)
+    Dir.open('public/img/', File:;RDONLY)
   ]
 }
