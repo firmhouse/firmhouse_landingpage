@@ -1517,6 +1517,9 @@ table .headerSortUp.purple, table .headerSortDown.purple {
 .hero-unit h1.kameron {
 	font-family: 'Kameron', serif;
 }
+.hero-unit h1.arvo {
+	font-family: 'Arvo';
+}
 footer {
   margin-top: 17px;
   padding-top: 17px;
