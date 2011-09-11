@@ -616,18 +616,19 @@ h6 small {
 }
 h1 {
   margin-bottom: 18px;
-  font-size: 30px;
+  font-size: 36px;
   line-height: 36px;
 }
 h1 small {
-  font-size: 18px;
+  font-size: 24px;
 }
 h2 {
-  font-size: 24px;
+	margin-bottom: 10px;
+  font-size: 30px;
   line-height: 36px;
 }
 h2 small {
-  font-size: 14px;
+  font-size: 18px;
 }
 h3,
 h4,
@@ -1532,9 +1533,6 @@ footer {
   -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
-}
-.page-header h1 {
-  margin-bottom: 8px;
 }
 .btn {
   cursor: pointer;
