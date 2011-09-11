@@ -1507,18 +1507,24 @@ table .headerSortUp.purple, table .headerSortDown.purple {
   line-height: 1;
   letter-spacing: -1px;
 }
+.hero-unit h2 {
+  margin-bottom: 0;
+  font-size: 60px;
+  line-height: 1;
+  letter-spacing: -1px;
+}
 .hero-unit p {
   font-size: 18px;
   font-weight: 200;
   line-height: 27px;
 }
-.hero-unit h1.carter {
+.hero-unit h2.carter {
 	font-family: 'Carter One', sans-serif;
 }
-.hero-unit h1.kameron {
+.hero-unit h2.kameron {
 	font-family: 'Kameron', serif;
 }
-.hero-unit h1.arvo {
+.hero-unit h2.arvo {
 	font-family: 'Arvo';
 }
 footer {
