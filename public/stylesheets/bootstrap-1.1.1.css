@@ -200,6 +200,7 @@ table {
 	right: 0;
 }
 .container {
+/*	background: #F8F8FF;*/
   width: 940px;
   margin: 0 auto;
   zoom: 1;
@@ -621,6 +622,9 @@ h1 {
 }
 h1 small {
   font-size: 24px;
+}
+h1.carter {
+	font-family: 'Carter One', sans-serif;
 }
 h2 {
 	margin-bottom: 10px;

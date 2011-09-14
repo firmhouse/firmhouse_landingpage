@@ -21,29 +21,8 @@
   <!-- Twitter button -->
 	<!-- Google site verification -->
 	<meta name="google-site-verification" content="cRP0sG0maqVQ4KY2P5vVpnyUrne_CT0zc-EJCdTgABg" />
-  <!-- Google Analytics code -->
-  <script type="text/javascript">
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-354860-10']);
-    _gaq.push(['_setDomainName', 'none']);
-    _gaq.push(['_setAllowLinker', true]);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-  </script>
 </head>
 <body>
-  <!-- Hello bar -->
-  <script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
-  <script type="text/javascript">
-      new HelloBar(29577,36830);
-  </script>
   <!-- Body van pagina -->
   <div class="container">
     <div class="row"  style="margin-top:20px">
@@ -59,18 +38,18 @@
     </div>
     <div class="hero-unit gray promo" style="margin-top:40px">
       <h1 style="text-align:center; margin-bottom:10px">Build. Measure. Learn.</h1>
-      <p>Creating new webservices is what gets us out of bed. Weâ€™re Dutch and bring new products to the Internet.</p>
+      <p>Creating new webservices is what gets us out of bed. Weœôòùre Dutch and bring new products to the Internet.</p>
     </div>
     <div class="container">
       <div class="container-promo">
         <div class="row">
           <div class="span5 promo columns">
             <h3>Agile development</h3>
-            <p>Consisting of several iterative and incremental software development methodologies, agile development allows us to react to change. Building software can and should always be flexible. Just in time information, quick changes and changing requirements are accepted throughout the complete process of product developement.</p>
+            <p>Consisting of several iterative and incremental software development methodologies, agile development allows us to be flexible. Building software can and should be flexible. Just in time information, quick changes and changing requirements.</p>
           </div>
           <div class="span5 promo columns">
             <h3>Early experimentation</h3>
-            <p>The envisioned product should be put in front of the end-users as early as possible. Doing so in the first stages of developing the product will expose valuable information. May it be <strong>usability testing</strong>, <strong>A/B testing</strong> or just simply <strong>a brief talk</strong> with end-users. If it shapes the vision of the product for both the user and the developing team, it's adding value. </p>
+            <p>The envisioned product should be put in front of the end-users as early as possible. Doing so in the first stages of developing the product will exposes valuable information. May it be <strong>usability testing</strong>, <strong>A/B testing</strong> or just simply <strong>a brief talk</strong> if it shapes the vision of the product for both the user and the developing team, it's adding value. </p>
             </div>
           <div class="span4 promo columns">
             <h3>Feedback loops</h3>
@@ -119,13 +98,13 @@
         </h2>
     </div>
     <div class="hero-unit gray">
-      <h2 class="carter">Beeblebrox</h2>
-      <p>Wondering what you get when you remove thinking about design, correct SEO-decisions and the hunt for cheap hosting from blogging? We think a place that supports you to write well on the topics you're currently exploring in life and business.</p>
-      <button href="http://getbeeblebrox.com" class="btn large disabled" style="float:right">Read more</button>
+      <h1 class="carter">Beeblebrox</h1>
+      <p>Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+      <button href="#" class="btn large disabled" style="float:right">Read more</button>
     </div>
     <div class="hero-unit gray">
-      <h2 class="arvo">Kioskfolio</h2>
-      <p>What if you, as a designer, could sell all your shiny designed objects and templates in a beautiful and personal way? Provided with all the tools you need to leverage your content, nothing will get in your way to earn a decent living as a designer.</p>
+      <h1 class="arvo">Kioskfolio</h1>
+      <p>We want to help you make a living out of designing, developing and selling WordPress templates. Are you a single WordPress author doing freelancing on the side, or you are a team of developers running a templating business? We are here for you.</p>
       <a href="http://kioskfolio.com" class="btn large info" style="float:right">Read more</a>
     </div>
     <div class="hero-unit gray">
@@ -150,12 +129,6 @@
           <small>Client</small></h3>
         <p>Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
         <p  style="float:right"><a href="http://www.kunstgebouw.nl/">Read more &rsaquo;</a></p>
-      </div>
-			<div class="span7 promo columns">
-        <h3>Hoofdletter J
-          <small>Partner</small></h3>
-        <p>Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
-        <p  style="float:right"><a href="http://www.hoofdletterj.nl">Read more &rsaquo;</a></p>
       </div>
       <div class="span7 promo columns">
         <h3>ITFlows
@@ -186,6 +159,11 @@
           <small>Partner</small></h3>
         <p>Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
         <p  style="float:right"><a href="http://heldenontwerp.nl">Read more &rsaquo;</a></p>
+      </div>
+      <div class="span7 promo columns">
+        <h3>Other parters
+          <small>Partner</small></h3>
+        <p>Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
       </div>
     </div>
     <div class="page-header">
