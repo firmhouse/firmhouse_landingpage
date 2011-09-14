@@ -623,6 +623,9 @@ h1 {
 h1 small {
   font-size: 24px;
 }
+h1.carter {
+	font-family: 'Carter One', sans-serif;
+}
 h2 {
 	margin-bottom: 10px;
   font-size: 30px;
